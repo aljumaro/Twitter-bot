@@ -1,0 +1,1 @@
+module.exports = (err, data) => (err) ? console.log(err) : console.log(data);
